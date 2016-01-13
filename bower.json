@@ -1,0 +1,32 @@
+{
+  "name": "taaabs-obsel-inspector",
+  "version": "1.0.0",
+  "description": "`<taaabs-obsel-inspector>` display a graphical representation of detailled informations about Obsels.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "taaabs"
+  ],
+  "authors": [
+    "TaaabsTeam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaaabsElements/taaabs-obsel-inspector.git"
+  },
+  "main": "taaabs-obsel-inspector.html",
+  "license": "https://github.com/TaaabsElements/taaabs-obsel-inspector/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0",
+    "samotracesjs": "https://github.com/liris-tweak/samotraces.js.git#0.21.0",
+    "paper-item": "polymerelements/paper-item#^1.0.0",
+    "paper-toggle-button": "polymerelements/paper-toggle-button#^1.0.0",
+    "paper-slider": "polymerelements/paper-slider#^1.0.0",	
+    "paper-toast": "polymerelements/paper-toast#^1.0.0"	
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
