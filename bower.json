@@ -18,7 +18,6 @@
   "license": "https://github.com/TaaabsElements/taaabs-obsel-inspector/LICENSE",
   "dependencies": {
     "polymer": "polymer/polymer#^1.0.0",
-    "samotracesjs": "https://github.com/liris-tweak/samotraces.js.git#0.21.0",
     "paper-item": "polymerelements/paper-item#^1.0.0",
     "paper-toggle-button": "polymerelements/paper-toggle-button#^1.0.0",
     "paper-slider": "polymerelements/paper-slider#^1.0.0",	
